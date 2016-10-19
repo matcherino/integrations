@@ -1,0 +1,76 @@
+span + span {
+    margin-left: 10px;
+}
+
+.mno-goal .material-icons {
+    vertical-align: middle;
+    color: gray;
+}
+
+.mno-goal .material-icons.met {
+    vertical-align: middle;
+    color: green;
+}
+
+.mno-payout {
+    padding: 10px;
+    background-color: #333;
+    color: #eee;
+}
+
+.mno-payout span {
+    float: right;
+}
+
+.mno-progress span {
+    margin-left: 10px;
+}
+
+
+.tournament-page {
+	width: 80%;
+	margin: auto;
+}
+
+ul.unstyled {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+
+.mdl-progress > .progressbar {
+    background-color: yellow;
+}
+
+.mno-list {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.mno-list>li {
+    margin-bottom: 1em;
+}
+
+.valign-middle {
+    vertical-align: middle;
+}
+
+.mno-pane {
+    margin-bottom: 2em;
+}
+
+.mno-pane > header {
+    border-bottom: solid 1px;
+}
+
+.mno-pane > header > span {
+    border-bottom: solid 4px;
+}
+
+.details img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}

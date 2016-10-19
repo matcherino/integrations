@@ -1,0 +1,1217 @@
+{
+    "admins": [
+        {
+            "bountyId": 3493,
+            "id": 15644,
+            "manager": null,
+            "name": "geep5",
+            "status": "?",
+            "users": [
+                {
+                    "authId": "",
+                    "authProvider": "twitch",
+                    "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                    "bracketInfo": {
+                        "accountName": "",
+                        "canClaim": false,
+                        "id": 1004,
+                        "status": "open",
+                        "teamId": 15644
+                    },
+                    "createdAt": null,
+                    "displayName": "Geep5",
+                    "email": null,
+                    "id": 1004,
+                    "lastLoginAt": null,
+                    "meta": {},
+                    "notificationsEmail": null,
+                    "password": null,
+                    "sendNotifications": false,
+                    "status": "",
+                    "transactions": null,
+                    "url": "",
+                    "userName": "geep5"
+                }
+            ],
+            "virtual": true
+        },
+        {
+            "bountyId": 3493,
+            "id": 15650,
+            "manager": null,
+            "name": "tod",
+            "status": "?",
+            "users": [
+                {
+                    "authId": "",
+                    "authProvider": "twitch",
+                    "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/tod-profile_image-d87f246c4dd8de35-300x300.jpeg",
+                    "bracketInfo": {
+                        "accountName": "",
+                        "canClaim": false,
+                        "id": 49401,
+                        "status": "open",
+                        "teamId": 15650
+                    },
+                    "createdAt": null,
+                    "displayName": "ToD",
+                    "email": null,
+                    "id": 49401,
+                    "lastLoginAt": null,
+                    "meta": {},
+                    "notificationsEmail": null,
+                    "password": null,
+                    "sendNotifications": false,
+                    "status": "",
+                    "transactions": null,
+                    "url": "",
+                    "userName": "tod"
+                }
+            ],
+            "virtual": true
+        },
+        {
+            "bountyId": 3493,
+            "id": 16317,
+            "manager": null,
+            "name": "tingjesse",
+            "status": "?",
+            "users": [
+                {
+                    "authId": "",
+                    "authProvider": "twitch",
+                    "avatar": "",
+                    "bracketInfo": {
+                        "accountName": "",
+                        "canClaim": false,
+                        "id": 70665,
+                        "status": "open",
+                        "teamId": 16317
+                    },
+                    "createdAt": null,
+                    "displayName": "TingJesse",
+                    "email": null,
+                    "id": 70665,
+                    "lastLoginAt": null,
+                    "meta": {},
+                    "notificationsEmail": null,
+                    "password": null,
+                    "sendNotifications": false,
+                    "status": "",
+                    "transactions": null,
+                    "url": "",
+                    "userName": "tingjesse"
+                }
+            ],
+            "virtual": true
+        }
+    ],
+    "balance": 616909,
+    "broadcastAt": "2016-09-30T16:00:00Z",
+    "createdAt": "2016-08-04T21:35:47.307048Z",
+    "createdBy": 1004,
+    "description": "<span></span><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">Introducing the Warcraft Ting Invitational. Ting, Matcherino and ToD have partnered up to bring you a Warcraft 3 tournament of the ages and we’ll be bringing back most the Warcraft’s old school veterans.  </span></p><span style=\"vertical-align: baseline;\"> </span><span style=\"vertical-align: baseline;\"><br></span><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">The prize pool is starting at $2000, and with your help we’re going to hit our goal of $6000 to get some of our favorite players like Moon, TH, Infi and Lyn to compete in the tournament.</span></p><span style=\"vertical-align: baseline;\"><br></span><p><span><span style=\"vertical-align: baseline;\">Feel free to contribute to the prize pool either by purchasing rewards or donating. Any and all support goes directly to the winning players. With your help, we can make this event a reality a</span><span style=\"vertical-align: baseline;\">nd see the event that we&#39;ve all been longing for : the best of Warcraft 3.</span></span></p><span><span style=\"vertical-align: baseline;\"><br></span></span><span style=\"vertical-align: baseline;\"> </span><span style=\"vertical-align: baseline;\"> </span><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">Schedule: Matches start at 6 pm CET.</span></p><span style=\"vertical-align: baseline;\"> </span><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">September:</span></p><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">Friday 30th  Group A (bo3)</span></p><span style=\"vertical-align: baseline;\"> </span><span style=\"vertical-align: baseline;\"><br></span><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">October:</span></p><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">Saturday 1st  Group B (bo3)</span></p><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">Friday 7th   Group C (bo3)</span></p><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">Saturday 8th Group D (bo3)</span></p><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">Friday  14th   Quarter Finals Day 1 (bo5)</span></p><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">Saturday 15th Quarter Finals Day 2 (bo5)</span></p><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"vertical-align: baseline;\">Friday  21th   Semi Finals (bo7)</span></p><p><span><span style=\"vertical-align: baseline;\">Saturday 22nd  Grand Finals (bo9)</span></span><span><span style=\"vertical-align: baseline;\"><br></span></span></p><img src=\"http://i.imgur.com/FmFnrev.png\" alt=\"bracket2\"><span><span style=\"vertical-align: baseline;\"><span><span style=\"vertical-align: baseline;\"><span><span style=\"vertical-align: baseline;\"><span><span style=\"vertical-align: baseline;\"><br></span></span></span></span><br></span></span><br></span></span><img src=\"http://i.imgur.com/wU1M82b.png\" alt=\"bracket1\"><span><span style=\"vertical-align: baseline;\"><span><span style=\"vertical-align: baseline;\"><span><span style=\"vertical-align: baseline;\"><span><span style=\"vertical-align: baseline;\"><br></span></span></span></span><br></span></span><br></span></span><img src=\"http://i.imgur.com/pnAZNGE.png\" alt=\"PlayerPool\"><span><span style=\"vertical-align: baseline;\"><br></span></span><p>Live in the US? Go to <a href=\"https://warcraft.ting.com\" rel=\"nofollow\">warcraft.ting.com</a> and get $25 in service credit if you bring your own phone to Ting or $25 off a new phone from the Ting Shop.</p>",
+    "donationsLock": true,
+    "donorCount": 0,
+    "entryFee": 0,
+    "entryFeeCut": 0,
+    "expiresAt": null,
+    "game": {
+        "createdAt": "2016-08-04T21:35:27.444428Z",
+        "id": 26,
+        "image": "https://matcherino.com/wp-content/uploads/2016/08/10239_front.jpg",
+        "isTeam": false,
+        "slug": "warcraft-3",
+        "title": "Warcraft 3"
+    },
+    "gameId": 26,
+    "gameTitle": "",
+    "id": 3493,
+    "isTeam": false,
+    "kind": "tournament",
+    "kindText": null,
+    "meta": {
+        "backgroundImg": "i.imgur.com/Wa2Tq0v.png",
+        "bracketLink": "",
+        "goal": 900100,
+        "headingImg": "i.imgur.com/FPXYZty.jpg",
+        "overView": "Let the games begin!",
+        "rules": "This is where the rules will go.",
+        "seedUsers": "geep5, jambonrose",
+        "streamLink": "twitch.tv/esl_wc3",
+        "stretchGoals": [
+            {
+                "desc": "Fly TH & Infi to the tournament",
+                "goal": 500000
+            },
+            {
+                "desc": "Lyn will take part in the tournament",
+                "goal": 400000
+            },
+            {
+                "desc": "Moon will take part in the tournament",
+                "goal": 600000
+            }
+        ]
+    },
+    "payouts": [
+        {
+            "bountyId": 3493,
+            "createdAt": "2016-08-05T03:08:23.737334Z",
+            "id": 7456,
+            "payout": 1000,
+            "strategy": "percentage",
+            "title": "4th Place"
+        },
+        {
+            "bountyId": 3493,
+            "createdAt": "2016-08-05T03:08:17.223698Z",
+            "id": 7455,
+            "payout": 1000,
+            "strategy": "percentage",
+            "title": "3rd Place"
+        },
+        {
+            "bountyId": 3493,
+            "createdAt": "2016-08-04T21:35:47.307048Z",
+            "id": 7435,
+            "payout": 3000,
+            "strategy": "percentage",
+            "title": "Second Place"
+        },
+        {
+            "bountyId": 3493,
+            "createdAt": "2016-08-04T21:35:47.307048Z",
+            "id": 7434,
+            "payout": 5000,
+            "strategy": "percentage",
+            "title": "First Place"
+        }
+    ],
+    "pool": null,
+    "rewards": [
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-05T01:29:28.702264Z",
+            "createdBy": 1004,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 243,
+            "imageURL": "soylent-production-herokuapp-com.global.ssl.fastly.net/static/images/drink_gallery1.6611ed866d7b.jpg",
+            "lpCurrency": 0,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 10,
+            "meta": {
+                "description": "Delicious Soylent in convenient ready-to-drink 400 kcal. bottles - 12 bottles per case. Normally sells for $34 a case!",
+                "esitmatedHandling": "Two Weeks after Touranement",
+                "imageHyperlink": "www.soylent.com/product/drink/",
+                "listOrder": "80",
+                "paymentMethod": 0,
+                "reqInfo": "",
+                "shipType": "onlyShip",
+                "shipping": [
+                    {
+                        "cost": 0,
+                        "location": "United States"
+                    }
+                ]
+            },
+            "purchases": null,
+            "qtyLeft": 0,
+            "revShare": [
+                {
+                    "amount": 2000,
+                    "rewardId": 243,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "Soylent - Simple, healthy, affordable food",
+            "type": "0",
+            "usdPrice": 2000,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-16T06:22:28.984229Z",
+            "createdBy": 41,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+                "createdAt": null,
+                "displayName": "Matcherino",
+                "email": null,
+                "id": 41,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "matcherino"
+            },
+            "currencyUser": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 345,
+            "imageURL": "i.imgur.com/6muYm35.jpg",
+            "lpCurrency": 1004,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 2,
+            "meta": {
+                "description": "Play two ATs with the famous Ukranian player \"Foggy\"! ",
+                "listOrder": 9,
+                "paymentMethod": 0,
+                "raffle": false,
+                "raffleWinners": 1,
+                "reqInfo": "",
+                "shipType": "noShipping",
+                "shipping": []
+            },
+            "purchases": null,
+            "qtyLeft": 2,
+            "revShare": [
+                {
+                    "amount": 10000,
+                    "rewardId": 345,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "2 Arranged Team Games with Foggy",
+            "type": "0",
+            "usdPrice": 10000,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-16T00:29:07.177167Z",
+            "createdBy": 41,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+                "createdAt": null,
+                "displayName": "Matcherino",
+                "email": null,
+                "id": 41,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "matcherino"
+            },
+            "currencyUser": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 342,
+            "imageURL": "s.sk-gaming.com/image/image/93dfca212dcf19c1x.jpg",
+            "lpCurrency": 1004,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 2,
+            "meta": {
+                "description": "Play two arranged team matches with the legendary Warcraft 3 player ReMind and contribute to the prize pool at the same time!",
+                "listOrder": "8",
+                "paymentMethod": 0,
+                "raffle": false,
+                "raffleWinners": 1,
+                "reqInfo": "",
+                "shipType": "noShipping",
+                "shipping": []
+            },
+            "purchases": null,
+            "qtyLeft": 1,
+            "revShare": [
+                {
+                    "amount": 15000,
+                    "rewardId": 342,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "2 Arranged Team Matches with ReMind",
+            "type": "0",
+            "usdPrice": 15000,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-16T06:14:44.556245Z",
+            "createdBy": 41,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+                "createdAt": null,
+                "displayName": "Matcherino",
+                "email": null,
+                "id": 41,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "matcherino"
+            },
+            "currencyUser": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 344,
+            "imageURL": "pbs.twimg.com/profile_images/607546007128297473/KBkEmMA-.jpg",
+            "lpCurrency": 1004,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 2,
+            "meta": {
+                "description": "Play two ATs with the incredible German player and sponsored streamer (back2warcraft) yAwS. ",
+                "listOrder": "7",
+                "paymentMethod": 0,
+                "raffle": false,
+                "raffleWinners": 1,
+                "reqInfo": "",
+                "shipType": "noShipping",
+                "shipping": []
+            },
+            "purchases": null,
+            "qtyLeft": 1,
+            "revShare": [
+                {
+                    "amount": 10000,
+                    "rewardId": 344,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "2 Arranged Team Matches with yAwS",
+            "type": "0",
+            "usdPrice": 10000,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-15T22:36:45.366083Z",
+            "createdBy": 1004,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "currencyUser": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/esl_wc3-profile_image-f27f02874718ac38-300x300.png",
+                "createdAt": null,
+                "displayName": "ESL_WC3",
+                "email": null,
+                "id": 68488,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "esl_wc3"
+            },
+            "gameWhitelistIds": null,
+            "id": 340,
+            "imageURL": "i.imgur.com/1TFgg24.jpg",
+            "lpCurrency": 68488,
+            "lpPrice": 5,
+            "maxPerUser": 0,
+            "maxQty": 3000,
+            "meta": {
+                "description": "Prepare a feast fit for a warchief with World of Warcraft: The Official Cookbook, a delicious compendium of recipes inspired by the hit online game from Blizzard Entertainment. \n\nPrepare a feast fit for a warchief with World of Warcraft: The Official Cookbook, a compendium of sweet and savory recipes inspired by the hit game from Blizzard Entertainment. Presenting delicacies favored by the Horde and the Alliance alike, this authorized cookbook teaches apprentice chefs how to conjure up a menu of food and drink from across the realm of Azeroth.",
+                "listOrder": "99",
+                "paymentMethod": 1,
+                "raffle": true,
+                "raffleWinners": 1,
+                "reqInfo": "",
+                "shipType": "onlyShip",
+                "shipping": [
+                    {
+                        "cost": "",
+                        "location": "United States"
+                    }
+                ]
+            },
+            "purchases": null,
+            "qtyLeft": 3000,
+            "revShare": null,
+            "status": "",
+            "title": "Raffle Warcraft Cookbook",
+            "type": "5",
+            "usdPrice": -1,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-16T06:30:28.122462Z",
+            "createdBy": 41,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+                "createdAt": null,
+                "displayName": "Matcherino",
+                "email": null,
+                "id": 41,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "matcherino"
+            },
+            "currencyUser": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 347,
+            "imageURL": "upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
+            "lpCurrency": 1004,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 2,
+            "meta": {
+                "description": "Play two ATs with the famous French player anima.",
+                "listOrder": 11,
+                "paymentMethod": 0,
+                "raffle": false,
+                "raffleWinners": 1,
+                "reqInfo": "",
+                "shipType": "noShipping",
+                "shipping": []
+            },
+            "purchases": null,
+            "qtyLeft": 2,
+            "revShare": [
+                {
+                    "amount": 10000,
+                    "rewardId": 347,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "2 Arranged Team Matches with anima",
+            "type": "",
+            "usdPrice": 10000,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-16T00:25:47.550304Z",
+            "createdBy": 41,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+                "createdAt": null,
+                "displayName": "Matcherino",
+                "email": null,
+                "id": 41,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "matcherino"
+            },
+            "currencyUser": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 341,
+            "imageURL": "i.imgur.com/LK7nfuU.jpg",
+            "lpCurrency": 1004,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 10,
+            "meta": {
+                "description": "Play two arranged team games with one of the greatest Warcraft 3 players of all time and contribute to the prize pool and the Warcraft 3 scene in the process.  ",
+                "imageHyperlink": "",
+                "listOrder": "9",
+                "paymentMethod": 0,
+                "raffle": false,
+                "raffleWinners": 1,
+                "reqInfo": "",
+                "shipType": "noShipping",
+                "shipping": []
+            },
+            "purchases": null,
+            "qtyLeft": 7,
+            "revShare": [
+                {
+                    "amount": 10000,
+                    "rewardId": 341,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "2 Arranged Team Matches with Yoan \"ToD\" Merlo.",
+            "type": "0",
+            "usdPrice": 10000,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-16T06:32:19.088791Z",
+            "createdBy": 41,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+                "createdAt": null,
+                "displayName": "Matcherino",
+                "email": null,
+                "id": 41,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "matcherino"
+            },
+            "currencyUser": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 348,
+            "imageURL": "i.imgur.com/bR88JUO.jpg",
+            "lpCurrency": 1004,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 2,
+            "meta": {
+                "description": "Play two ATs with the famous Czechian player Cechi.",
+                "listOrder": 12,
+                "paymentMethod": 0,
+                "raffle": false,
+                "raffleWinners": 1,
+                "reqInfo": "",
+                "shipType": "noShipping",
+                "shipping": []
+            },
+            "purchases": null,
+            "qtyLeft": 2,
+            "revShare": [
+                {
+                    "amount": 10000,
+                    "rewardId": 348,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "2 Arranged Team Matches with Cechi",
+            "type": "0",
+            "usdPrice": 10000,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-15T22:28:34.933931Z",
+            "createdBy": 41,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+                "createdAt": null,
+                "displayName": "Matcherino",
+                "email": null,
+                "id": 41,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "matcherino"
+            },
+            "currencyUser": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 339,
+            "imageURL": "soylent-production-herokuapp-com.global.ssl.fastly.net/static/images/coffiest_gallery1.bb02355898bd.jpg",
+            "lpCurrency": 1004,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 10,
+            "meta": {
+                "description": "Coffiest is a balanced breakfast and your morning coffee, all in one convenient bottle. Each great-tasting bottle contains 400 calories of complete plant-based nutrition and the same caffeine as a strong cup of coffee. ",
+                "esitmatedHandling": "1 - 2 weeks After the tournament ",
+                "imageHyperlink": "www.soylent.com/product/coffiest/",
+                "listOrder": "90",
+                "paymentMethod": 0,
+                "raffle": false,
+                "raffleWinners": 1,
+                "reqInfo": "",
+                "shipType": "onlyShip",
+                "shipping": [
+                    {
+                        "cost": "",
+                        "location": "USA + Canada"
+                    }
+                ]
+            },
+            "purchases": null,
+            "qtyLeft": 7,
+            "revShare": [
+                {
+                    "amount": 2000,
+                    "rewardId": 339,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "New Soylent Coffiest",
+            "type": "0",
+            "usdPrice": 2000,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-16T06:33:51.076378Z",
+            "createdBy": 41,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+                "createdAt": null,
+                "displayName": "Matcherino",
+                "email": null,
+                "id": 41,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "matcherino"
+            },
+            "currencyUser": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 349,
+            "imageURL": "i.imgur.com/7vBZZCb.jpg",
+            "lpCurrency": 1004,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 2,
+            "meta": {
+                "description": "Play two ATs with the famous English player WarchiefRich.",
+                "listOrder": "7",
+                "paymentMethod": 0,
+                "raffle": false,
+                "raffleWinners": 1,
+                "reqInfo": "",
+                "shipType": "noShipping",
+                "shipping": []
+            },
+            "purchases": null,
+            "qtyLeft": 2,
+            "revShare": [
+                {
+                    "amount": 10000,
+                    "rewardId": 349,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "2 Arranged Team Matches with WarchiefRich",
+            "type": "0",
+            "usdPrice": 10000,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-16T06:27:21.335812Z",
+            "createdBy": 41,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+                "createdAt": null,
+                "displayName": "Matcherino",
+                "email": null,
+                "id": 41,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "matcherino"
+            },
+            "currencyUser": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 346,
+            "imageURL": "i.imgur.com/d1Vyphm.jpg",
+            "lpCurrency": 1004,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 2,
+            "meta": {
+                "description": "Play two ATs with the famous Russian player Hawk.",
+                "listOrder": 10,
+                "paymentMethod": 0,
+                "raffle": false,
+                "raffleWinners": 1,
+                "reqInfo": "",
+                "shipType": "noShipping",
+                "shipping": []
+            },
+            "purchases": null,
+            "qtyLeft": 2,
+            "revShare": [
+                {
+                    "amount": 10000,
+                    "rewardId": 346,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "2 Arranged Team Matches with Hawk",
+            "type": "0",
+            "usdPrice": 10000,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-04T21:46:46.721539Z",
+            "createdBy": 1004,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 242,
+            "imageURL": "i.imgur.com/EFM8SVv.png",
+            "lpCurrency": 0,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 15,
+            "meta": {
+                "description": "Pick up a replay pack of all of the games played in the tournament! Obtain a part of Warcraft 3 history today!",
+                "listOrder": "5",
+                "paymentMethod": 0,
+                "reqInfo": "",
+                "shipType": "noShipping",
+                "shipping": []
+            },
+            "purchases": null,
+            "qtyLeft": 3,
+            "revShare": [
+                {
+                    "amount": 5000,
+                    "rewardId": 242,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "Replay Pack",
+            "type": "0",
+            "usdPrice": 5000,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        },
+        {
+            "attachments": [
+                {
+                    "foreignId": 3493,
+                    "foreignType": "bounty"
+                }
+            ],
+            "createdAt": "2016-08-16T02:40:45.390685Z",
+            "createdBy": 41,
+            "creator": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+                "createdAt": null,
+                "displayName": "Matcherino",
+                "email": null,
+                "id": 41,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "matcherino"
+            },
+            "currencyUser": {
+                "authId": "",
+                "authProvider": "twitch",
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/geep5-profile_image-990dde50736f44ff-300x300.png",
+                "createdAt": null,
+                "displayName": "Geep5",
+                "email": null,
+                "id": 1004,
+                "lastLoginAt": null,
+                "meta": {},
+                "notificationsEmail": null,
+                "password": null,
+                "sendNotifications": false,
+                "status": "",
+                "transactions": null,
+                "url": "",
+                "userName": "geep5"
+            },
+            "gameWhitelistIds": null,
+            "id": 343,
+            "imageURL": "i.imgur.com/Vm2s7Kq.png",
+            "lpCurrency": 1004,
+            "lpPrice": 0,
+            "maxPerUser": 0,
+            "maxQty": 100,
+            "meta": {
+                "description": "Get a Ting GSM SIM and try out Ting today - no contracts, overage penalties or other carrier BS. You'll also get a bonus $10 in Ting account credit just for supporting WarCraft 3 (can be combined with other Ting promo code offers).",
+                "esitmatedHandling": "2 weeks after the tournament is over",
+                "imageHyperlink": "ting.com/shop/gsmSIM?utm_campaign=Matcherino&utm_source=Matcherino&utm_medium=referral&utm_content=SIM",
+                "listOrder": "2",
+                "paymentMethod": 0,
+                "raffle": false,
+                "raffleWinners": 1,
+                "reqInfo": "",
+                "shipType": "onlyShip",
+                "shipping": [
+                    {
+                        "cost": "",
+                        "location": "United States"
+                    }
+                ]
+            },
+            "purchases": null,
+            "qtyLeft": 96,
+            "revShare": [
+                {
+                    "amount": 500,
+                    "rewardId": 343,
+                    "shareId": 0,
+                    "shareType": "host"
+                }
+            ],
+            "status": "",
+            "title": "Ting | Affordable US cell phone service",
+            "type": "0",
+            "usdPrice": 500,
+            "useGameWhitelist": false,
+            "useUserWhitelist": false,
+            "userWhitelistIds": null
+        }
+    ],
+    "title": "Ting Warcraft Invitational",
+    "updatedAt": null,
+    "version": "1"
+}

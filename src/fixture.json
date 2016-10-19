@@ -1,0 +1,1219 @@
+{
+  "id": 3285,
+  "balance": 23200,
+  "broadcastAt": "2016-07-31T11:55:00-04:00",
+  "joinPassword": "",
+  "createdAt": "2016-07-19T15:26:18.452326-04:00",
+  "createdBy": 20592,
+  "description": "Mock-It eSports in conjunction with the /r/pokemongo subreddit are proud to present an upcoming worldwide tournament featuring all of our favorite game, Pokémon GO.\n\nFirst off, there may be questions, but hold those until you&#39;ve read everything. This will be pretty big event that everyone is welcome to participate in, no matter where you live. Signups will be free and available to all, featuring cash prizes to the lucky winners. There are only a few things that will be required from you:\nIf you have any questions, feel free to post here or in one of the following discords. Good luck, and see you then :)\n\nPokémon GO Discord:\nhttps://discord.gg/pokemongo\nSign-up Website:\nhttp://mockit.gg\nSubmission Form:\nhttp://mockit.gg/mockit-esports-pokemon-go-tournament/\nMock-it eSports Discord:\nhttps://discord.gg/mockit\nWe are also going to be setting up a competitive discord in the near future /r/GOCompete , check it out. /r/pokemongo will continue to be the hub for communications, though :)",
+  "expiresAt": null,
+  "gameId": 15,
+  "gameTitle": "",
+  "isTeam": false,
+  "title": "World's First Pokémon GO Tournament by Mockit eSports",
+  "kind": "tournament",
+  "victorPercentage": 0,
+  "status": "locked",
+  "updatedAt": null,
+  "donorCount": 0,
+  "donationsLock": true,
+  "isFeatured": false,
+  "isDeleted": false,
+  "entryFee": 0,
+  "entryFeeCut": 0,
+  "coupon": "",
+  "meta": {
+    "goal": 500,
+    "rules": "•All participants will be required to be a member on https://discord.gg/pokemongo\n•The signups are open now and will be open every day until the tournament takes place.\n-In order to sign up, you will need to visit http://mockit.gg/ and click the &quot;Pokémon GO Tournament Sign up&quot; button.\n-Fill out the form provided and wait until the tournament date.\n•The tournament will take place on July 31st at 12:00 p.m. EDT (12:00 UTC-4) and every following Sunday\n-The tournament will be streamed on https://twitch.tv/mockitleague\n-Our caster Izzail and the subreddit mod Caststarman will be casting.\n-The Boston PokemonGO meetup will be featured and streamed for the first tournament. The tournament is worldwide, however, and open to all participants.\n•During the tournament, you will submit your captured pokemon to this form:\n-http://mockit.gg/mockit-esports-pokemon-go-tournament/\n•The tallest pokémon and the heaviest pokémon will be awarded the first place prize of $100\nThere will be a check-in process on the day of the tournament. Check-ins will be open 24 hours before the tournament start and will end 15 minutes before. In order to check-in, you will run the !checkin command in the #checkin. All check-ins will send a verification message if done successfully.\n",
+    "coupon": "mock",
+    "overView": "First Pokémon GO Weekly Tournament!",
+    "seedUsers": "Mockitleague",
+    "headingImg": "s.aolcdn.com/hss/storage/midas/bc3c263dce1d8a8e5430ce7631e247b9/203826498/maxresdefault.jpg",
+    "streamLink": "twitch.tv/mockitleague",
+    "stretchGoals": [
+      {
+        "desc": "If we hit $750 we will give away a steam giftcard to one random viewer watching the stream.",
+        "goal": 750
+      }
+    ],
+    "backgroundImg": "i.ytimg.com/vi/eESdMIhsgpg/maxresdefault.jpg"
+  },
+  "pool": [
+    {
+      "id": 14483,
+      "name": "antonmahesh2",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20626,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "",
+          "password": null,
+          "createdAt": null,
+          "displayName": "Antonmahesh2",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "antonmahesh2",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20626,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14483,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14486,
+      "name": "bbh_yixn",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20627,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "",
+          "password": null,
+          "createdAt": null,
+          "displayName": "BbH_Yixn",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "bbh_yixn",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20627,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14486,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14492,
+      "name": "killatrix",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20641,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/killatrix-profile_image-5545c14ab49e2dfd-300x300.png",
+          "password": null,
+          "createdAt": null,
+          "displayName": "KillaTrix",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "killatrix",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20641,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14492,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14558,
+      "name": "cupsk8",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20624,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "",
+          "password": null,
+          "createdAt": null,
+          "displayName": "cupsk8",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "cupsk8",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20624,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14558,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14587,
+      "name": "danzgamz",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20783,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "",
+          "password": null,
+          "createdAt": null,
+          "displayName": "danzgamz",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "danzgamz",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20783,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14587,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14475,
+      "name": "mockitleague",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20592,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/mockitleague-profile_image-63c6fb3c8155f359-300x300.png",
+          "password": null,
+          "createdAt": null,
+          "displayName": "MockitLeague",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "mockitleague",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20592,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14475,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14491,
+      "name": "stonecollin",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20635,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/stonecollin-profile_image-1943fa4bc24581d7-300x300.jpeg",
+          "password": null,
+          "createdAt": null,
+          "displayName": "stonecollin",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "stonecollin",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20635,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14491,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14518,
+      "name": "ogiehhh",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20676,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "",
+          "password": null,
+          "createdAt": null,
+          "displayName": "ogiehhh",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "ogiehhh",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20676,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14518,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14481,
+      "name": "petethenoob",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20623,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/petethenoob-profile_image-44e24993e79e4cb8-300x300.png",
+          "password": null,
+          "createdAt": null,
+          "displayName": "PeteTheNoob",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "petethenoob",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20623,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14481,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14564,
+      "name": "the_xero_",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20770,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "",
+          "password": null,
+          "createdAt": null,
+          "displayName": "the_xero_",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "the_xero_",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20770,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14564,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14658,
+      "name": "sparkleysoph",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 1049,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/sparkleysoph-profile_image-1e048a7614975ca5-300x300.jpeg",
+          "password": null,
+          "createdAt": null,
+          "displayName": "SparkleySoph",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "sparkleysoph",
+          "meta": {},
+          "bracketInfo": {
+            "id": 1049,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14658,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14611,
+      "name": "cso54",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20822,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "",
+          "password": null,
+          "createdAt": null,
+          "displayName": "Cso54",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "cso54",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20822,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14611,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14655,
+      "name": "danthaman1227",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20989,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "",
+          "password": null,
+          "createdAt": null,
+          "displayName": "danthaman1227",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "danthaman1227",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20989,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14655,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 14744,
+      "name": "keanmay",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 21205,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "",
+          "password": null,
+          "createdAt": null,
+          "displayName": "keanmay",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "keanmay",
+          "meta": {},
+          "bracketInfo": {
+            "id": 21205,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14744,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 15052,
+      "name": "turtelz",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 9564,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/turtelz-profile_image-0f5fe358ec31c90f-300x300.jpeg",
+          "password": null,
+          "createdAt": null,
+          "displayName": "Turtelz",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "turtelz",
+          "meta": {},
+          "bracketInfo": {
+            "id": 9564,
+            "status": "open",
+            "accountName": "",
+            "teamId": 15052,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    },
+    {
+      "id": 15055,
+      "name": "iliketurtles1928",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 22009,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "",
+          "password": null,
+          "createdAt": null,
+          "displayName": "iliketurtles1928",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "iliketurtles1928",
+          "meta": {},
+          "bracketInfo": {
+            "id": 22009,
+            "status": "open",
+            "accountName": "",
+            "teamId": 15055,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    }
+  ],
+  "admins": [
+    {
+      "id": 14475,
+      "name": "mockitleague",
+      "manager": null,
+      "virtual": true,
+      "bountyId": 3285,
+      "users": [
+        {
+          "id": 20592,
+          "authId": "",
+          "authProvider": "twitch",
+          "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/mockitleague-profile_image-63c6fb3c8155f359-300x300.png",
+          "password": null,
+          "createdAt": null,
+          "displayName": "MockitLeague",
+          "email": null,
+          "lastLoginAt": null,
+          "notificationsEmail": null,
+          "sendNotifications": false,
+          "status": "",
+          "url": "",
+          "userName": "mockitleague",
+          "meta": {},
+          "bracketInfo": {
+            "id": 20592,
+            "status": "open",
+            "accountName": "",
+            "teamId": 14475,
+            "canClaim": false
+          },
+          "transactions": null
+        }
+      ],
+      "status": "?"
+    }
+  ],
+  "creator": {
+    "id": 20592,
+    "authId": "",
+    "authProvider": "twitch",
+    "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/mockitleague-profile_image-63c6fb3c8155f359-300x300.png",
+    "password": null,
+    "createdAt": null,
+    "displayName": "MockitLeague",
+    "email": null,
+    "lastLoginAt": null,
+    "notificationsEmail": null,
+    "sendNotifications": false,
+    "status": "",
+    "url": "",
+    "userName": "mockitleague",
+    "transactions": null
+  },
+  "game": {
+    "id": 15,
+    "title": "Pokkén Tournament",
+    "createdAt": "2016-04-19T15:01:06.171494-04:00",
+    "image": "/public/0.6.12/img/games/pokken-tournament.jpg",
+    "slug": "pokken-tournament",
+    "isTeam": true
+  },
+  "comments": null,
+  "conditions": null,
+  "schedule": null,
+  "brackets": null,
+  "payouts": [
+    {
+      "id": 6721,
+      "bountyId": 3285,
+      "title": "Matcherino",
+      "payout": 400,
+      "strategy": "system",
+      "createdAt": "2016-07-19T15:26:18.452326-04:00",
+      "teams": [
+        {
+          "id": 14476,
+          "name": "matcherino",
+          "manager": null,
+          "virtual": true,
+          "bountyId": 3285,
+          "users": [
+            {
+              "id": 41,
+              "authId": "",
+              "authProvider": "twitch",
+              "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+              "password": null,
+              "createdAt": null,
+              "displayName": "Matcherino",
+              "email": null,
+              "lastLoginAt": null,
+              "notificationsEmail": null,
+              "sendNotifications": false,
+              "status": "",
+              "url": "",
+              "userName": "matcherino",
+              "meta": {},
+              "bracketInfo": {
+                "id": 41,
+                "status": "open",
+                "accountName": "",
+                "teamId": 14476,
+                "canClaim": false
+              },
+              "transactions": null
+            }
+          ],
+          "status": "?"
+        }
+      ]
+    },
+    {
+      "id": 6723,
+      "bountyId": 3285,
+      "title": "Heaviest Pokémon",
+      "payout": 5000,
+      "strategy": "percentage",
+      "createdAt": "2016-07-19T15:26:18.452326-04:00"
+    },
+    {
+      "id": 6722,
+      "bountyId": 3285,
+      "title": "Tallest Pokémon",
+      "payout": 5000,
+      "strategy": "percentage",
+      "createdAt": "2016-07-19T15:26:18.452326-04:00"
+    }
+  ],
+  "rewards": [
+    {
+      "id": 148,
+      "createdAt": "2016-07-19T18:14:59.660847-04:00",
+      "createdBy": 41,
+      "title": "Soylent - 12 Pack.",
+      "imageURL": "i.imgur.com/mtNeesl.jpg",
+      "usdPrice": 2000,
+      "lpPrice": 0,
+      "lpCurrency": 0,
+      "maxQty": 10,
+      "qtyLeft": 10,
+      "maxPerUser": 0,
+      "meta": {
+        "reqInfo": "",
+        "shipType": "onlyShip",
+        "shipping": [
+          {
+            "cost": 0,
+            "location": "USA and Canada"
+          }
+        ],
+        "description": "Delicious Soylent in convenient ready-to-drink 400 kcal. bottles - 12 bottles per case. Normally sells for $34 a case! Free Shipping and 100% of proceeds go to the prize pool.",
+        "imageHyperlink": "www.soylent.com/product/drink/",
+        "esitmatedHandling": "2 weeks after tournament finishes"
+      },
+      "status": "",
+      "type": "regular",
+      "useGameWhitelist": false,
+      "useUserWhitelist": false,
+      "attachments": [
+        {
+          "foreignId": 3285,
+          "foreignType": "bounty"
+        }
+      ],
+      "revShare": [
+        {
+          "rewardId": 148,
+          "shareId": 0,
+          "shareType": "host",
+          "amount": 2000
+        }
+      ],
+      "gameWhitelistIds": null,
+      "userWhitelistIds": null,
+      "purchases": null,
+      "creator": {
+        "id": 41,
+        "authId": "",
+        "authProvider": "twitch",
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+        "password": null,
+        "createdAt": null,
+        "displayName": "Matcherino",
+        "email": null,
+        "lastLoginAt": null,
+        "notificationsEmail": null,
+        "sendNotifications": false,
+        "status": "",
+        "url": "",
+        "userName": "matcherino",
+        "meta": {},
+        "transactions": null
+      }
+    },
+    {
+      "id": 145,
+      "createdAt": "2016-07-19T15:37:30.694389-04:00",
+      "createdBy": 20592,
+      "title": "Radeon 280x Graphics card",
+      "imageURL": "images-na.ssl-images-amazon.com/images/I/514I4%2BynSwL.jpg",
+      "usdPrice": 7500,
+      "lpPrice": 0,
+      "lpCurrency": 0,
+      "maxQty": 2,
+      "qtyLeft": 2,
+      "maxPerUser": 0,
+      "meta": {
+        "reqInfo": "",
+        "shipType": "onlyShip",
+        "shipping": [
+          {
+            "cost": 1000,
+            "location": "United States"
+          }
+        ],
+        "description": "Radeon 280x Graphics card from PowerColor. OC 3GB version",
+        "esitmatedHandling": "7-10 business days"
+      },
+      "status": "",
+      "type": "regular",
+      "useGameWhitelist": false,
+      "useUserWhitelist": false,
+      "attachments": [
+        {
+          "foreignId": 3285,
+          "foreignType": "bounty"
+        }
+      ],
+      "revShare": [
+        {
+          "rewardId": 145,
+          "shareId": 0,
+          "shareType": "host",
+          "amount": 7500
+        }
+      ],
+      "gameWhitelistIds": null,
+      "userWhitelistIds": null,
+      "purchases": null,
+      "creator": {
+        "id": 20592,
+        "authId": "",
+        "authProvider": "twitch",
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/mockitleague-profile_image-63c6fb3c8155f359-300x300.png",
+        "password": null,
+        "createdAt": null,
+        "displayName": "MockitLeague",
+        "email": null,
+        "lastLoginAt": null,
+        "notificationsEmail": null,
+        "sendNotifications": false,
+        "status": "",
+        "url": "",
+        "userName": "mockitleague",
+        "meta": {},
+        "transactions": null
+      }
+    },
+    {
+      "id": 149,
+      "createdAt": "2016-07-19T18:16:23.553009-04:00",
+      "createdBy": 41,
+      "title": "Honey BBQ Beef Jerky - Jerky XP!",
+      "imageURL": "cdn.shopify.com/s/files/1/0389/7445/products/2ee90be155f0fbe0dfea6fb580f5aa96.jpeg?v=1453223107",
+      "usdPrice": 600,
+      "lpPrice": 0,
+      "lpCurrency": 0,
+      "maxQty": 10,
+      "qtyLeft": 9,
+      "maxPerUser": 0,
+      "meta": {
+        "reqInfo": "",
+        "shipType": "onlyShip",
+        "shipping": [
+          {
+            "cost": 0,
+            "location": "USA and Canada"
+          }
+        ],
+        "description": "100% Beef, Slow Cooked, and Smoked to Perfection in The United States of America for only 6$. Retail value at 8$. \n\nCome on. Their CEO's a dog and there's free shipping!",
+        "imageHyperlink": "jerkyxp.com/products/honey-bbq-jerky?variant=643775377",
+        "esitmatedHandling": "2 weeks after tournament finishes"
+      },
+      "status": "",
+      "type": "regular",
+      "useGameWhitelist": false,
+      "useUserWhitelist": false,
+      "attachments": [
+        {
+          "foreignId": 3285,
+          "foreignType": "bounty"
+        }
+      ],
+      "revShare": [
+        {
+          "rewardId": 149,
+          "shareId": 0,
+          "shareType": "host",
+          "amount": 600
+        }
+      ],
+      "gameWhitelistIds": null,
+      "userWhitelistIds": null,
+      "purchases": null,
+      "creator": {
+        "id": 41,
+        "authId": "",
+        "authProvider": "twitch",
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/matcherino-profile_image-5061fb0685d4ad37-300x300.png",
+        "password": null,
+        "createdAt": null,
+        "displayName": "Matcherino",
+        "email": null,
+        "lastLoginAt": null,
+        "notificationsEmail": null,
+        "sendNotifications": false,
+        "status": "",
+        "url": "",
+        "userName": "matcherino",
+        "meta": {},
+        "transactions": null
+      }
+    }
+  ],
+  "transactions": [
+    {
+      "id": 29350,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "13umarr133",
+      "userId": 22012,
+      "displayName": "13umarr133",
+      "comment": "",
+      "amount": 100,
+      "avatar": "",
+      "createdAt": "2016-07-25T10:41:42.857227-04:00"
+    },
+    {
+      "id": 29349,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "iliketurtles1928",
+      "userId": 22009,
+      "displayName": "iliketurtles1928",
+      "comment": "",
+      "amount": 100,
+      "avatar": "",
+      "createdAt": "2016-07-25T10:15:51.171112-04:00"
+    },
+    {
+      "id": 29348,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "turtelz",
+      "userId": 9564,
+      "displayName": "Turtelz",
+      "comment": "",
+      "amount": 100,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/turtelz-profile_image-0f5fe358ec31c90f-300x300.jpeg",
+      "createdAt": "2016-07-25T07:21:12.125592-04:00"
+    },
+    {
+      "id": 29347,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "3xploit007",
+      "userId": 21994,
+      "displayName": "3xploit007",
+      "comment": "",
+      "amount": 100,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3xploit007-profile_image-0fb16097c4591358-300x300.jpeg",
+      "createdAt": "2016-07-25T03:34:03.069677-04:00"
+    },
+    {
+      "id": 28388,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "jrawly",
+      "userId": 20993,
+      "displayName": "Jrawly",
+      "comment": "",
+      "amount": 100,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/jrawly-profile_image-86152ddb5a4e524a-300x300.jpeg",
+      "createdAt": "2016-07-21T21:53:37.705271-04:00"
+    },
+    {
+      "id": 28384,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "danthaman1227",
+      "userId": 20989,
+      "displayName": "danthaman1227",
+      "comment": "Get rekt",
+      "amount": 100,
+      "avatar": "",
+      "createdAt": "2016-07-21T20:21:32.232918-04:00"
+    },
+    {
+      "id": 28373,
+      "action": "purchase",
+      "authProvider": "twitch",
+      "userName": "sparkleysoph",
+      "userId": 1049,
+      "displayName": "SparkleySoph",
+      "comment": "Reward Purchase",
+      "amount": 600,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/sparkleysoph-profile_image-1e048a7614975ca5-300x300.jpeg",
+      "createdAt": "2016-07-21T17:56:51.495759-04:00"
+    },
+    {
+      "id": 28122,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "xsh0tty",
+      "userId": 20712,
+      "displayName": "xSh0tty",
+      "comment": "",
+      "amount": 100,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/xsh0tty-profile_image-5343f7caf4b39c99-300x300.png",
+      "createdAt": "2016-07-19T23:27:34.803617-04:00"
+    },
+    {
+      "id": 28036,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "ogiehhh",
+      "userId": 20676,
+      "displayName": "ogiehhh",
+      "comment": "",
+      "amount": 100,
+      "avatar": "",
+      "createdAt": "2016-07-19T20:53:08.191941-04:00"
+    },
+    {
+      "id": 28032,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "technoman1130",
+      "userId": 20675,
+      "displayName": "Technoman1130",
+      "comment": "",
+      "amount": 100,
+      "avatar": "",
+      "createdAt": "2016-07-19T20:51:29.138003-04:00"
+    },
+    {
+      "id": 28021,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "drink13",
+      "userId": 20659,
+      "displayName": "Drink13",
+      "comment": "",
+      "amount": 100,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/drink13-profile_image-8bd6a1d4ecfb1f36-300x300.png",
+      "createdAt": "2016-07-19T18:51:31.132978-04:00"
+    },
+    {
+      "id": 28013,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "izzail",
+      "userId": 20656,
+      "displayName": "Izzail",
+      "comment": "",
+      "amount": 100,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/izzail-profile_image-dfb6fd58cd923d28-300x300.png",
+      "createdAt": "2016-07-19T18:21:42.556838-04:00"
+    },
+    {
+      "id": 28006,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "mockitleague",
+      "userId": 20592,
+      "displayName": "MockitLeague",
+      "comment": "",
+      "amount": 100,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/mockitleague-profile_image-63c6fb3c8155f359-300x300.png",
+      "createdAt": "2016-07-19T16:37:52.650149-04:00"
+    },
+    {
+      "id": 28003,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "mozart27",
+      "userId": 20638,
+      "displayName": "Mozart27",
+      "comment": "",
+      "amount": 100,
+      "avatar": "",
+      "createdAt": "2016-07-19T16:30:17.893705-04:00"
+    },
+    {
+      "id": 28002,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "mrfreeze007",
+      "userId": 20636,
+      "displayName": "MrFreeze007",
+      "comment": "",
+      "amount": 100,
+      "avatar": "",
+      "createdAt": "2016-07-19T16:24:51.709975-04:00"
+    },
+    {
+      "id": 28001,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "stonecollin",
+      "userId": 20635,
+      "displayName": "stonecollin",
+      "comment": "Yeet",
+      "amount": 100,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/stonecollin-profile_image-1943fa4bc24581d7-300x300.jpeg",
+      "createdAt": "2016-07-19T16:24:42.037114-04:00"
+    },
+    {
+      "id": 28000,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "jorolelin",
+      "userId": 20634,
+      "displayName": "jorolelin",
+      "comment": "",
+      "amount": 100,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/jorolelin-profile_image-b20a104701051a6e-300x300.jpeg",
+      "createdAt": "2016-07-19T16:24:39.643581-04:00"
+    },
+    {
+      "id": 27999,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "antonmahesh2",
+      "userId": 20626,
+      "displayName": "Antonmahesh2",
+      "comment": "LESS GO MOCKIT",
+      "amount": 100,
+      "avatar": "",
+      "createdAt": "2016-07-19T16:24:18.376582-04:00"
+    },
+    {
+      "id": 27998,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "awildweeb",
+      "userId": 20630,
+      "displayName": "awildweeb",
+      "comment": "i love you",
+      "amount": 100,
+      "avatar": "",
+      "createdAt": "2016-07-19T16:04:20.964516-04:00"
+    },
+    {
+      "id": 27976,
+      "action": "donate",
+      "authProvider": "twitch",
+      "userName": "bbh_yixn",
+      "userId": 20627,
+      "displayName": "BbH_Yixn",
+      "comment": "",
+      "amount": 500,
+      "avatar": "",
+      "createdAt": "2016-07-19T15:55:32.546712-04:00"
+    },
+    {
+      "id": 27974,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "bbh_yixn",
+      "userId": 20627,
+      "displayName": "BbH_Yixn",
+      "comment": "",
+      "amount": 100,
+      "avatar": "",
+      "createdAt": "2016-07-19T15:54:36.360098-04:00"
+    },
+    {
+      "id": 27973,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "cupsk8",
+      "userId": 20624,
+      "displayName": "cupsk8",
+      "comment": "",
+      "amount": 100,
+      "avatar": "",
+      "createdAt": "2016-07-19T15:48:01.687893-04:00"
+    },
+    {
+      "id": 27972,
+      "action": "coupon:use",
+      "authProvider": "twitch",
+      "userName": "petethenoob",
+      "userId": 20623,
+      "displayName": "PeteTheNoob",
+      "comment": "",
+      "amount": 100,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/petethenoob-profile_image-44e24993e79e4cb8-300x300.png",
+      "createdAt": "2016-07-19T15:43:43.000817-04:00"
+    },
+    {
+      "id": 27971,
+      "action": "donate",
+      "authProvider": "twitch",
+      "userName": "mockitleague",
+      "userId": 20592,
+      "displayName": "MockitLeague",
+      "comment": "",
+      "amount": 20000,
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/mockitleague-profile_image-63c6fb3c8155f359-300x300.png",
+      "createdAt": "2016-07-19T15:40:12.164962-04:00"
+    }
+  ],
+  "kindText": null
+}
