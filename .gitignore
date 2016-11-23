@@ -3,3 +3,4 @@ build/
 webpack-stats.json
 npm-debug.log
 .eslintcache
+test/config.js
