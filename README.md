@@ -53,11 +53,11 @@ To create tournament
     header:
         Authorization: Bearer ACCESSTOKEN
 
-    body: tournament payload
+    body: tournament json
 
 To get JSONP tournament data
 
-    POST https://staging.matcherino.com/__api/bounties?id=3429&callback=foo
+    POST https://staging.matcherino.com/__api/bounties?id=ID&callback=CALLBACK_NAME
 
     header:
         Authorization: Bearer ACCESSTOKEN
