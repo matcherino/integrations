@@ -1,0 +1,24 @@
+<html>
+<head>
+    <script src="http://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+    <div id="result" />
+
+    <script>
+        $.ajax({
+            type: 'GET',
+            url: "https://staging.matcherino.com/__api/bounties?id=3425",
+            jsonp: "callback",
+            headers: {
+                Authorization: "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHAiOnsiYXV0aENvZGUiOiJOQSIsInVzZXJJZCI6MjY3MDZ9LCJleHAiOjE0Nzk5Mjc1NjksInN1YiI6eyJhdXRoQ29kZSI6Ik5BIiwidXNlcklkIjoyNjcwNn19.BazuiHaffu7wUCk1Dn_W-wP0ORMyQfeifky-xZ_mbGTc4rbSF7gndbQLhZRX7lL7n4oaH2wYBj-fPNkQ7GTEQg"
+            },
+            datatype: 'jsonp',
+            success: function(json) {
+                var result = '<p>' + JSON.stringify(json) + '</p>';
+                $('#result').append(result);
+            }
+        });
+    </script>
+</body>
+</html>

@@ -57,7 +57,7 @@ describe('Tournament', () => {
       title: 'JSONP Tournament',
       description: 'jsonp tournament',
       admins: [
-        {authId: 'playerino1', authProvider: 'twitch'},
+        {authId: 'mgutz', authProvider: 'twitch'},
       ]
     };
 

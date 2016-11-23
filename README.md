@@ -31,6 +31,37 @@ The TournamentPage is comprised of many tabs. The main logic is in `src/pages/to
 
 The application currently uses a fixture file for data `src/match.json`.
 
+## Endpoints
+
+In production use `https://matcherino.com` instead of `https://staging.matcherino.com`
+
+
+To authenticate
+
+    GET https://staging.matcherino.com/__api/auth/login?client_id=CLIENTID&client_secret=CLIENTSECRET&grant_type=client_credentials
+
+To authorize
+
+    POST https://staging.matcherino.com/__api/auth/token
+
+    body: json from authentication call
+
+To create tournament
+
+    POST https://staging.matcherino.com/__api/bounties/partner
+
+    header:
+        Authorization: Bearer ACCESSTOKEN
+
+    body: tournament payload
+
+To get JSONP tournament data
+
+    POST https://staging.matcherino.com/__api/bounties?id=3429&callback=foo
+
+    header:
+        Authorization: Bearer ACCESSTOKEN
+
 ## Tests
 
 The `test` folder contains test which show how to create a tournament
@@ -43,3 +74,4 @@ To run tests against `staging.matcherino.com`
 
     # run tests with mocha
     mocha
+

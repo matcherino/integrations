@@ -15,7 +15,9 @@ function absUrl(path, options) {
       p += '?' + qs;
     }
   }
-  return config.apiHost + p;
+  const url = config.apiHost + p;
+  console.log('endpoint', url);
+  return url;
 }
 
 function bearerToken(accessToken) {
@@ -78,7 +80,7 @@ exports.authenticate = (clientId, clientSecret) => {
 /**
  * Exchanges a refresh token for an access token and a new refresh token.
  * The access token is short-lived for about 15 minutes. The refresh token is has
- * a much longer life and can be used to get a new access token. Access token 
+ * a much longer life and can be used to get a new access token. Access token
  * are required to securely access Matcherino's API.
  */
 exports.authorize = (credentials) => {
