@@ -84,7 +84,7 @@ describe('Tournament', () => {
 
       // get browser safe JSONP data (browser safe, cross-site)
       .then((obj) => {
-        return rutils.secureGet(`/__api/bounties?id=${obj.id}&callback=foo`, accessToken)
+        return rutils.get(`/__api/bounties?id=${obj.id}&callback=foo`, accessToken)
           .then(res => res.text())
           .then(text => {
             assert.equal(text, 'foo(' + JSON.stringify(obj.data) + ')')
