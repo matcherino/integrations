@@ -59,9 +59,6 @@ To get JSONP tournament data
 
     GET https://staging.matcherino.com/__api/bounties?id=ID&callback=CALLBACK_NAME
 
-    header:
-        Authorization: Bearer ACCESSTOKEN
-
 ## Tests
 
 The `test` folder contains test which show how to create a tournament
