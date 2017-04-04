@@ -72,23 +72,40 @@ export default function simplifyData(tournament) {
     }
   }
 
-  result.customMessages = config.customMessages || [];
+  result.highestDonor = highestDonor;
+  result.latestDonor = transactions[transactions.length - 1];
+  // do not repeat highest and latest
+  if (result.latestDonor == result.highestDonor) {
+    result.latestDonor = null;
+  }
 
-  // result.highestDonor = highestDonor;
-  // result.latestDonor = transactions[transactions.length - 1];
-  // // do not repeat highest and latest
-  // if (result.latestDonor == result.highestDonor) {
-  //   result.latestDonor = null;
-  // }
+  const {latestDonor} = result;
 
   // // group all messages together
-  // result.messages = [];
-  // result.messages.concat(config.customMessages);
-  // if (highestDonor && highestDonor.comment) {
-  //   result.messages.concat(highestDonor.comment);
-  // }
-  // if (latestDonor && latestDonor.comment) {
-  //   result.messages.concat(latestDonor.comment);
-  // }
+  let messages = [];
+  messages = messages.concat(config.customMessages);
+  if (highestDonor && highestDonor.comment) {
+    messages = messages.concat({
+      avatar: highestDonor.avatar,
+      comment: highestDonor.comment
+    });
+  }
+
+  if (latestDonor && latestDonor.comment) {
+    messages = messages.concat({
+      avatar: latestDonor.avatar,
+      comment: latestDonor.comment
+    });
+  }
+
+  const {nextGoal} = result;
+  if (nextGoal) {
+    messages = messages.concat({
+      avatar: nextGoal.strchImg,
+      comment: nextGoal.desc
+    });
+  }
+
+  result.messages = messages;
   return result;
 }

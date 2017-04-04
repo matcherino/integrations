@@ -1,7 +1,8 @@
 import './App.css';
 
+import React, {Component} from 'react';
+
 import Bar from './components/Bar';
-import Component from 'inferno-component';
 import Dump from './components/Dump';
 import Marquee from './components/Marquee';
 import SlideBar from './components/SlideBar';
@@ -36,7 +37,7 @@ class App extends Component {
             <SlideBar data={data} />
           </div>
           <div>
-            <Marquee messages={data.customMessages} />
+            <Marquee messages={data.messages} />
           </div>
           <Dump it={data} />
         </div>
