@@ -7,14 +7,11 @@ export default class Marquee extends Component {
   state = {activeIndex: 0};
 
   render() {
-    console.log('Marquee:render', this.props);
     const {messages} = this.props;
 
     if (!messages) return null;
     const {activeIndex} = this.state;
     const message = messages[activeIndex];
-
-    console.log('Marquee:render', message, activeIndex);
 
     //<span style={{left: values.x}}>{message}</span>
 
@@ -26,7 +23,7 @@ export default class Marquee extends Component {
               key={activeIndex}
               onRest={this.moveNext}
               defaultStyle={{x: 800}}
-              style={{x: spring(0, {stiffness: 100, damping: 10})}}
+              style={{x: spring(0, {stiffness: 70, damping: 7})}}
             >
               {values => (
                 <span style={{left: values.x, verticalAlign: 'middle'}}>
@@ -45,13 +42,11 @@ export default class Marquee extends Component {
     const {activeIndex} = this.state;
     const length = messages ? messages.length : 0;
 
-    console.log('moveNext', activeIndex, (activeIndex + 1) % length);
-
     setTimeout(
       () => {
         this.setState({activeIndex: (activeIndex + 1) % length});
       },
-      300
+      1000
     );
   };
 }

@@ -1,23 +1,55 @@
+import {Motion, spring} from 'react-motion';
 import React, {Component} from 'react';
+
+import MotionLoop from '../MotionLoop';
 
 const MetGoal = ({cx, cy}) => (
   <circle cx={cx} cy={cy} r={8} stroke="#FF851B" strokeWidth="2" fill="#FF851B" />
 );
 
-const NextGoal = ({cx, cy}) => (
-  <circle cx={cx} cy={cy} r={10} stroke="#FF851B" strokeWidth="4" fill="white" />
-);
+const viewBoxHeight = 100;
+const viewBoxWidth = 1000;
+const centerY = viewBoxHeight / 2;
+
+class NextGoal extends Component {
+  state = {index: 0};
+
+  render() {
+    const {cx, cy, goal} = this.props;
+    const {index} = this.state;
+    console.log('NextGoal:render', index);
+    return (
+      <MotionLoop
+        styleFrom={{r: spring(8, {stiffness: 120, damping: 5})}}
+        styleTo={{r: spring(18, {stiffness: 120, damping: 5})}}
+      >
+        {motion => (
+          <g>
+            <text
+              textAnchor="middle"
+              x={cx}
+              y={cy - motion.r - 8}
+              fill="#FF851B"
+              fontSize={motion.r * 1.2}
+            >
+              {goal.goal / 100}
+            </text>
+            <circle cx={cx} cy={cy} {...motion} stroke="#FF851B" strokeWidth="4" fill="white" />
+          </g>
+        )}
+      </MotionLoop>
+    );
+  }
+}
 
 const FutureGoal = ({cx, cy}) => (
   <circle cx={cx} cy={cy} r={8} stroke="#999" strokeWidth="2" fill="#999" />
 );
 
-const viewBoxWidth = 1000;
 const strokeWidth = 3;
-const fixedY = 20; //strokeWidth / 2;
 
 function calcXY(percent) {
-  return {x: percent * viewBoxWidth, y: fixedY};
+  return {x: percent * viewBoxWidth, y: centerY};
 }
 
 export default class Bar extends Component {
@@ -26,7 +58,7 @@ export default class Bar extends Component {
 
     const {nextGoal} = data;
     const coord = calcXY(nextGoal.goal / data.goal);
-    return <NextGoal key={nextGoal.id} cx={coord.x} cy={coord.y} />;
+    return <NextGoal key={nextGoal.id} cx={coord.x} cy={coord.y} goal={data.nextGoal} />;
   }
 
   renderMetGoals(data) {
@@ -60,14 +92,14 @@ export default class Bar extends Component {
     console.log('progressX', fundPercent, progressX);
 
     return (
-      <svg viewBox="0 0 1000 100" version="1.1">
+      <svg viewBox={`0 0 ${viewBoxWidth} ${viewBoxHeight}`} version="1.1">
         {/* total line */}
         <line
           strokeLinecap="round"
           x1={strokeWidth}
-          y1={fixedY}
+          y1={centerY}
           x2={viewBoxWidth - strokeWidth}
-          y2={fixedY}
+          y2={centerY}
           stroke="#999"
           strokeWidth={strokeWidth}
         />
@@ -77,9 +109,9 @@ export default class Bar extends Component {
           <line
             strokeLinecap="round"
             x1={strokeWidth}
-            y1={fixedY}
+            y1={centerY}
             x2={progressX}
-            y2={fixedY}
+            y2={centerY}
             stroke="#FF851B"
             strokeWidth={strokeWidth * 2}
           />}

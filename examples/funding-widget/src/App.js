@@ -8,6 +8,7 @@ import Marquee from './components/Marquee';
 import SlideBar from './components/SlideBar';
 import config from './config';
 import {getMatcherinoData} from './lib/common';
+import {playAudio} from './lib/sounds';
 import simplifyData from './lib/simplifyData';
 
 class App extends Component {
@@ -17,14 +18,13 @@ class App extends Component {
     getMatcherinoData(config.eventId, config.pollSeconds, matcherinoData => {
       const data = simplifyData(matcherinoData);
       console.log('matcherinoData', matcherinoData, data);
+      playAudio('coupon');
       this.setState({data});
     });
   }
 
   render() {
-    console.log('RENDER', this.props, this.state);
     const {data} = this.state;
-
     if (!data) return null;
 
     return (
@@ -33,13 +33,10 @@ class App extends Component {
           <div style={{width: 800}}>
             <Bar data={data} />
           </div>
-          <div style={{width: 800}}>
-            <SlideBar data={data} />
-          </div>
           <div>
             <Marquee messages={data.messages} />
           </div>
-          <Dump it={data} />
+          {/*<Dump it={data} />*/}
         </div>
       </div>
     );
